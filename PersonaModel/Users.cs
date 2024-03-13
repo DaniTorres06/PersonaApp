@@ -15,6 +15,7 @@ namespace PersonaModel
         {
             User = string.Empty;
             Password = string.Empty;
+
         }
     }
 }
